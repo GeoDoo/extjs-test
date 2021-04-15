@@ -1,1 +1,1 @@
-# extjs-test
+# ExtJS-test
